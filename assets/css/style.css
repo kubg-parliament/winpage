@@ -25,8 +25,9 @@
     justify-self: center;
     position: fixed;
     display: flex;
-    background-image: url("/assets/img/image.jpg");
+    background-image: url("https://github.com/kubg-parliament/winpage/raw/master/assets/img/image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;
+    scale: 0.7;
 }
